@@ -1,0 +1,5 @@
+{
+  "name": "Play UI Examples",
+  "description": "Examples of using the formatters and helpers provided by play-ui",
+  "image": "heroku/scala"
+}
